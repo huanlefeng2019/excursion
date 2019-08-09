@@ -1,0 +1,32 @@
+body{
+	background-color: Black;
+	text-align: center;
+}
+div{
+	margin: 20px;
+}
+.title{
+	font-family: Verdana;
+	color: white;
+}
+.Download{
+	color: aquamarine;
+	font-size: 16px;
+}
+
+#top{
+	font-weight: normal;
+	font-size: 50px;
+}
+#second, #three{
+	font-weight: 300;
+	font-size: 42px;
+}
+#remembers{
+	font-size: 21px;
+	color: gray;
+}
+#copy{
+	text-align: right;
+	color: gray;
+}
